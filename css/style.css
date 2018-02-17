@@ -1,0 +1,19 @@
+*{padding:0px; margin: 0px;}
+	body{background: gray;}
+	#locate{
+		position: relative;
+	}
+	.layoutback{
+	    float: left;
+	}
+	.layoutin{
+	   margin: 3px;
+
+	}
+	.layoutin img{
+	   width: 240px;
+	   height: auto;
+	   border:3px solid white;
+	   box-shadow: 2px 2px #321e1e;
+       
+	}
