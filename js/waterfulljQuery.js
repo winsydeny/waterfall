@@ -21,7 +21,7 @@ $(document).ready(function(){
          var layoutin;
          var num;
          if(docHeight()){
-             for(var i = 0;i<5;i++){
+             for(var i = 0;i<6;i++){
              	num = random();
              	// console.log("hello world");
                  layoutback = $('<div>').addClass('layoutback').appendTo($('#locate'));
