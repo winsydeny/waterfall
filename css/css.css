@@ -1,0 +1,27 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+body{
+	background: #6b6161;
+}
+.layoutback{
+}
+.layoutin{
+	padding: 5px;
+	margin: 2px;
+	background: #cfcccc;
+	height: auto;
+	width: 180px;
+	float: left;
+}
+img{
+	height: auto;
+	width: 180px;
+
+}
+#locate{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+}
